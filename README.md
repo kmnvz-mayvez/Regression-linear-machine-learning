@@ -32,10 +32,10 @@ Supervised_learning for house_id dan insurance
 0 = yes
 
 # result 
-# Model Evaluation
-Accuracy: 0.7417
-Precision: 0.7350
-Recall: 0.7836
+Model Evaluation
+- Accuracy: 0.7417
+- Precision: 0.7350
+- Recall: 0.7836
 
 # visualiasai Linear 
 
