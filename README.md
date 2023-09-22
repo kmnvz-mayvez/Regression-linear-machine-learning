@@ -18,7 +18,7 @@ Supervised_learning for house_id dan insurance
 | 33  | male  | 22.705| 0        | no     | northwest | 21984.47061 |
 | 32  | male  | 28.880| 0        | no     | northwest | 3866.85520  |
 
-# cleansing dataset 
+# cleansing dataset insurance
 
 |   age |    bmi |   children | region    |    charges |   sex_female |   sex_male |   smoker_encode |
 |-------|--------|------------|-----------|------------|--------------|------------|-----------------|
@@ -27,6 +27,9 @@ Supervised_learning for house_id dan insurance
 |    28 |  33    |          3 | southeast |    4449.46 |            0 |          1 |               0 |
 |    33 |  22.705|          0 | northwest |   21984.5  |            0 |          1 |               0 |
 |    32 |  28.88 |          0 | northwest |    3866.86 |            0 |          1 |               0 |
+
+1 = no
+0 = yes
 
 # visualiasai Linear 
 
