@@ -31,6 +31,12 @@ Supervised_learning for house_id dan insurance
 1 = no
 0 = yes
 
+# result 
+# Model Evaluation
+Accuracy: 0.7417
+Precision: 0.7350
+Recall: 0.7836
+
 # visualiasai Linear 
 
 ![image](https://github.com/kmnvz-mayvez/Regression_linear_machine-learning/assets/55338832/0d4f559b-eae0-43ce-b250-dbd2d75748e9)
