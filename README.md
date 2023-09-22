@@ -41,6 +41,13 @@ Model Evaluation
 
 ![image](https://github.com/kmnvz-mayvez/Regression_linear_machine-learning/assets/55338832/0d4f559b-eae0-43ce-b250-dbd2d75748e9)
 
+with ploymorphic degree = 2
+Model Evaluation
+
+- Akurasi: 0.8387
+- Presisi: 0.8319
+- Recall: 0.8689
+
 # sample dataset preview house_id 
 
 | id  | price   | bedrooms | sqft_lot | waterfront | view | condition | sqft_above | sqft_basement | bathrooms | floors | sqft_living |
