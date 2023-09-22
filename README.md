@@ -1,5 +1,5 @@
 # machineLearning_regression linear
-regression mode for house_id dan insurance
+Supervised_learning for house_id dan insurance
 
 # guide-start python code 
 
