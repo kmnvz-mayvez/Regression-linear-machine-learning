@@ -17,3 +17,8 @@ Supervised_learning for house_id dan insurance
 | 28  | male  | 33.000| 3        | no     | southeast | 4449.46200  |
 | 33  | male  | 22.705| 0        | no     | northwest | 21984.47061 |
 | 32  | male  | 28.880| 0        | no     | northwest | 3866.85520  |
+
+# visualiasai Linear 
+
+![image](https://github.com/kmnvz-mayvez/Regression_linear_machine-learning/assets/55338832/0d4f559b-eae0-43ce-b250-dbd2d75748e9)
+
