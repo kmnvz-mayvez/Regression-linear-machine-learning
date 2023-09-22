@@ -37,7 +37,7 @@ Model Evaluation
 - Precision: 0.7350
 - Recall: 0.7836
 
-# visualiasai Linear 
+# visualiasai Linear insurance
 
 ![image](https://github.com/kmnvz-mayvez/Regression_linear_machine-learning/assets/55338832/0d4f559b-eae0-43ce-b250-dbd2d75748e9)
 
@@ -50,5 +50,26 @@ Model Evaluation
 | 3   | 520000  | 3        | 11947    | 0          | 0    | 4         | 1930       | NaN           | 2         | 1      | 1930        |
 | 4   | 485000  | 3        | 8030     | 0          | 0    | 4         | 1000       | NaN           | 2.3       | 1      | 2000        |
 | 5   | 478000  | 4        | 10500    | 0          | 0    | 4         | 1140       | NaN           | 2.5       | 1      | 1940        |
+
+# cleansing dataset
+
+|   id |    price |   bedrooms |   sqft_lot |   waterfront |   view |   condition |   sqft_above |   sqft_basement |   bathrooms |   floors |   sqft_living |
+|-----:|---------:|-----------:|-----------:|-------------:|-------:|------------:|------------:|----------------:|------------:|---------:|--------------:|
+|    1 |   315000 |          3 |       7912 |            0 |      0 |           3 |         1340 |               0 |           0 |       15 |          1340 |
+|    2 |  1394000 |          5 |       9050 |            0 |      4 |           5 |         3370 |               1 |          25 |        2 |          3650 |
+|    3 |   520000 |          3 |      11947 |            0 |      0 |           4 |         1930 |               1 |           2 |        1 |          1930 |
+|    4 |   485000 |          3 |       8030 |            0 |      0 |           4 |         1000 |               1 |          23 |        1 |          2000 |
+|    5 |   478000 |          4 |      10500 |            0 |      0 |           4 |         1140 |               1 |          25 |        1 |          1940 |
+
+# result 
+Model Evaluation
+- Akurasi: 0.9271
+- Presisi: 0.9240
+- Recall: 0.9145
+
+# visualisasi Liner house_id 
+
+![image](https://github.com/kmnvz-mayvez/Regression_linear_machine-learning/assets/55338832/44421322-5dd8-43a3-ae06-5939915d5345)
+
 
 
