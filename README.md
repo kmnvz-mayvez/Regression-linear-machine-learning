@@ -18,6 +18,16 @@ Supervised_learning for house_id dan insurance
 | 33  | male  | 22.705| 0        | no     | northwest | 21984.47061 |
 | 32  | male  | 28.880| 0        | no     | northwest | 3866.85520  |
 
+# cleansing dataset 
+
+|   age |    bmi |   children | region    |    charges |   sex_female |   sex_male |   smoker_encode |
+|-------|--------|------------|-----------|------------|--------------|------------|-----------------|
+|    19 |  27.9  |          0 | southwest |   16884.9  |            1 |          0 |               1 |
+|    18 |  33.77 |          1 | southeast |    1725.55 |            0 |          1 |               0 |
+|    28 |  33    |          3 | southeast |    4449.46 |            0 |          1 |               0 |
+|    33 |  22.705|          0 | northwest |   21984.5  |            0 |          1 |               0 |
+|    32 |  28.88 |          0 | northwest |    3866.86 |            0 |          1 |               0 |
+
 # visualiasai Linear 
 
 ![image](https://github.com/kmnvz-mayvez/Regression_linear_machine-learning/assets/55338832/0d4f559b-eae0-43ce-b250-dbd2d75748e9)
